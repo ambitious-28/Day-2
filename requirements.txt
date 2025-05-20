@@ -1,1 +1,1 @@
-flask==0.5  # vulnerable version
+flask==2.2.5  # vulnerable version
